@@ -16,13 +16,7 @@ const TEAM = [
     eyebrow: "A Decade of Building Brands, Products & Growth-Focused Businesses.",
     bio: "Sachin Menon is a technology leader and brand strategist, with over a decade of experience building digital products, brands, and growth-focused businesses. Having founded and scaled multiple ventures across software, marketing, and consumer products, he brings a unique perspective that connects business goals with exceptional user experiences. At our studio, Sachin leads the vision for creating brands and digital experiences that are not only visually compelling but also strategically designed to drive growth, engagement, and long-term customer loyalty.",
   },
-  {
-    img: "/assets/team2.jpg",
-    name: "Jai",
-    role: "Senior Full-Stack Developer",
-    eyebrow: "Fast, Reliable Websites & Apps — Built to Grow Your Business.",
-    bio: "Jai builds fast, reliable, modern websites and applications that help businesses grow — handling everything from design to launch and beyond. With 12+ years across the full stack, he works fluently with HTML5, CSS3, JavaScript, jQuery, React, Next.js, and WordPress on the front end, and Node.js, REST APIs, databases, deployment, and AWS behind it — plus custom AI chat integrations that make products smarter. For every client, Jai brings real agency delivery discipline: owning each project end to end, with SEO, performance, and ongoing support built in.",
-  },
+   
 ];
 
 const PROJECT_TYPES = ["Branding", "UI/UX Design", "Development", "AI Integration", "Not sure yet"];
